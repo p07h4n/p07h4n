@@ -62,7 +62,7 @@ Here are some areas I’m working on or plan to showcase:
 # Fun Facts 🎉
 - I love solving puzzles—whether they’re physics equations or security exploits! 🧩
 - Coffee and code are my fuel for late-night learning sessions. 🌙
-- When I’m not at the terminal, you’ll find me [insert hobby, e.g., hiking, surfing, reading]. ⛰️🏄🏻‍♂️📚
+- When I’m not at the terminal, you’ll find me [hiking, surfing, reading]. ⛰️🏄🏻‍♂️📚
 
 ---
 
